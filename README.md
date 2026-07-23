@@ -8,4 +8,8 @@ A collection of software engineering concepts explained in detail.
 
 - [HTTP](networking/http.md)
 
+### Distributed Systems
+
+- [Idempotency](distributed-systems/idempotency.md)
+
 ---

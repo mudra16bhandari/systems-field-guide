@@ -206,6 +206,8 @@ Avoid large or deeply nested diagrams.
 
 Include code ONLY if it makes the concept easier to understand.
 
+Always write code examples in JavaScript unless the topic specifically requires another language.
+
 Good candidates:
 
 - HTTP
