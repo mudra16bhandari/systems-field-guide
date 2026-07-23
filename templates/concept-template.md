@@ -1,79 +1,139 @@
 # Title
 
+> One sentence definition
+
+Difficulty: 🟢 Beginner
+Time: 10 min
+Prerequisites:
+- HTTP
+- TCP
+
+---
+
 ## Definition
-[1-2 clear, simple sentences explaining what it is.]
+
+...
 
 ---
 
 ## Why it Exists
-- **What problem does it solve?**
-- **What happens without it?**
+
+...
 
 ---
 
 ## Intuition
-[Simple daily-life analogy.]
+
+...
 
 ---
 
 ## Engineering Story
-[Real-world scenario at scale (e.g. Netflix, Stripe, Uber, WhatsApp).]
+
+...
+
+---
+
+## Problem
+
+What engineering problem does this solve?
 
 ---
 
 ## How it Works
-[Step-by-step logical breakdown of how it operates.]
+
+...
+
+---
+
+## Request / Data Flow (if applicable)
+
+...
 
 ---
 
 ## Diagram
 
-```mermaid
-graph TD
-    Client[📱 Client App] -->|1. Request| Gateway[🚪 API Gateway]
-    Gateway -->|2. Forward| Service[⚙️ Core Service]
-    Service -->|3. Query Data| DB[(🗄️ Storage / DB)]
-    DB -->|4. Return Result| Client
-```
+...
 
 ---
 
-## Code Example *(Only include if code adds direct value)*
+## Implementation
 
-```go
-// Clean, minimal code snippet
-```
+How engineers usually implement this.
 
----
+Common libraries/frameworks.
 
-## Advantages & Limitations
-- **Advantages**: 
-- **Limitations**: 
+Common approaches.
 
 ---
 
-## Tradeoffs *(Include if relevant)*
+## Code Example (if valuable)
+
+...
 
 ---
 
-## Common Mistakes *(Include if relevant)*
+## Advantages
+
+...
+
+---
+
+## Limitations
+
+...
+
+---
+
+## Tradeoffs
+
+...
+
+---
+
+## Common Mistakes
+
+...
+
+---
+
+## Real World Usage
+
+How companies actually use it.
 
 ---
 
 ## Related Concepts
-- **[Related Concept](../other-category/related.md)**: [Short description]
+
+...
 
 ---
 
-## Interview Questions *(Include if relevant)*
+## What to Learn Next
 
-### Junior / Mid
-- **Q**: 
-  - **Key Points**: 
+HTTP
+↓
+HTTPS
+↓
+TLS
+↓
+TCP
+
+---
+
+## Interview Questions
+
+...
+
+---
+
+## References
+
+Official docs
+RFCs
+Engineering blogs
 
 ---
 
 ## TLDR
-- 1. [Key takeaway 1]
-- 2. [Key takeaway 2]
-- 3. [Key takeaway 3]
