@@ -12,4 +12,8 @@ A collection of software engineering concepts explained in detail.
 
 - [Idempotency](distributed-systems/idempotency.md)
 
+### Backend
+
+- [API Gateway](backend/api-gateway.md)
+
 ---
