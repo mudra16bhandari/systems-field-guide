@@ -17,4 +17,8 @@ A collection of software engineering concepts explained in detail.
 
 - [API Gateway](backend/api-gateway.md)
 
+### Security
+
+- [SSL](security/ssl.md)
+
 ---

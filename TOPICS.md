@@ -127,7 +127,8 @@ Completed articles link directly to their Markdown file.
 - [ ] OAuth
 - [ ] JWT
 - [ ] TLS
-- [ ] HTTPS
+- [x] **[SSL](security/ssl.md)** *(Completed)*
+- [x] **[HTTPS](networking/https.md)** *(Completed)*
 - [ ] CORS
 - [ ] XSS
 - [ ] CSRF
