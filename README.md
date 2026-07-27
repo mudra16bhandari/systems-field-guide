@@ -7,6 +7,7 @@ A collection of software engineering concepts explained in detail.
 ### Networking
 
 - [HTTP](networking/http.md)
+- [HTTPS](networking/https.md)
 
 ### Distributed Systems
 

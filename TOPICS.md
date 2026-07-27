@@ -7,7 +7,7 @@ Completed articles link directly to their Markdown file.
 
 ## 🌐 Networking
 - [x] **[HTTP](networking/http.md)** *(Completed)*
-- [ ] HTTPS
+- [x] **[HTTPS](networking/https.md)** *(Completed)*
 - [ ] TCP
 - [ ] UDP
 - [ ] QUIC
