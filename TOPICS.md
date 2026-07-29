@@ -34,7 +34,7 @@ Completed articles link directly to their Markdown file.
 
 ## ⚡ Distributed Systems
 - [x] **[Idempotency](distributed-systems/idempotency.md)** *(Completed)*
-- [ ] Retry
+- [x] **[Retry](distributed-systems/retry.md)** *(Completed)*
 - [ ] Exponential Backoff
 - [ ] Jitter
 - [ ] Circuit Breaker

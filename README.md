@@ -12,6 +12,7 @@ A collection of software engineering concepts explained in detail.
 ### Distributed Systems
 
 - [Idempotency](distributed-systems/idempotency.md)
+- [Retry](distributed-systems/retry.md)
 
 ### Backend
 
