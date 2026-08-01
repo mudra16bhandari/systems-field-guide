@@ -37,7 +37,7 @@ Completed articles link directly to their Markdown file.
 - [x] **[Retry](distributed-systems/retry.md)** *(Completed)*
 - [ ] Exponential Backoff
 - [ ] Jitter
-- [ ] Circuit Breaker
+- [x] **[Circuit Breaker](distributed-systems/circuit-breaker.md)** *(Completed)*
 - [ ] Bulkhead
 - [ ] Saga Pattern
 - [ ] Eventual Consistency
