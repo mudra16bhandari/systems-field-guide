@@ -35,7 +35,7 @@ Completed articles link directly to their Markdown file.
 ## ⚡ Distributed Systems
 - [x] **[Idempotency](distributed-systems/idempotency.md)** *(Completed)*
 - [x] **[Retry](distributed-systems/retry.md)** *(Completed)*
-- [ ] Exponential Backoff
+- [x] **[Exponential Backoff](distributed-systems/exponential-backoff.md)** *(Completed)*
 - [ ] Jitter
 - [x] **[Circuit Breaker](distributed-systems/circuit-breaker.md)** *(Completed)*
 - [ ] Bulkhead
