@@ -14,6 +14,7 @@ A collection of software engineering concepts explained in detail.
 - [Idempotency](distributed-systems/idempotency.md)
 - [Retry](distributed-systems/retry.md)
 - [Exponential Backoff](distributed-systems/exponential-backoff.md)
+- [Jitter](distributed-systems/jitter.md)
 - [Circuit Breaker](distributed-systems/circuit-breaker.md)
 
 ### Backend

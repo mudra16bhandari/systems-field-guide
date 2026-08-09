@@ -36,7 +36,7 @@ Completed articles link directly to their Markdown file.
 - [x] **[Idempotency](distributed-systems/idempotency.md)** *(Completed)*
 - [x] **[Retry](distributed-systems/retry.md)** *(Completed)*
 - [x] **[Exponential Backoff](distributed-systems/exponential-backoff.md)** *(Completed)*
-- [ ] Jitter
+- [x] **[Jitter](distributed-systems/jitter.md)** *(Completed)*
 - [x] **[Circuit Breaker](distributed-systems/circuit-breaker.md)** *(Completed)*
 - [ ] Bulkhead
 - [ ] Saga Pattern
