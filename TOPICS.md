@@ -22,7 +22,7 @@ Completed articles link directly to their Markdown file.
 ## ⚙️ Backend
 - [x] **[API Gateway](backend/api-gateway.md)** *(Completed)*
 - [ ] Reverse Proxy
-- [ ] Load Balancer
+- [x] **[Load Balancer](backend/load-balancer.md)** *(Completed)*
 - [ ] Microservices
 - [ ] Monolith
 - [ ] BFF (Backend for Frontend)

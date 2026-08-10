@@ -20,6 +20,7 @@ A collection of software engineering concepts explained in detail.
 ### Backend
 
 - [API Gateway](backend/api-gateway.md)
+- [Load Balancer](backend/load-balancer.md)
 
 ### Security
 
