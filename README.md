@@ -21,6 +21,7 @@ A collection of software engineering concepts explained in detail.
 
 - [API Gateway](backend/api-gateway.md)
 - [Load Balancer](backend/load-balancer.md)
+- [Reverse Proxy](backend/reverse-proxy.md)
 
 ### Security
 
