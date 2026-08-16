@@ -23,6 +23,10 @@ A collection of software engineering concepts explained in detail.
 - [Load Balancer](backend/load-balancer.md)
 - [Reverse Proxy](backend/reverse-proxy.md)
 
+### Databases
+
+- [ACID](databases/acid.md)
+
 ### Security
 
 - [SSL](security/ssl.md)

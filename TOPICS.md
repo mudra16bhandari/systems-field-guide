@@ -54,7 +54,7 @@ Completed articles link directly to their Markdown file.
 ---
 
 ## 🗄️ Databases
-- [ ] ACID
+- [x] **[ACID](databases/acid.md)** *(Completed)*
 - [ ] BASE
 - [ ] Transactions
 - [ ] Isolation Levels
