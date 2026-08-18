@@ -93,7 +93,7 @@ Completed articles link directly to their Markdown file.
 ---
 
 ## 📦 DevOps & Infrastructure
-- [ ] Docker
+- [x] **[Docker](devops/docker.md)** *(Completed)*
 - [ ] Containers
 - [ ] Images
 - [ ] Kubernetes
